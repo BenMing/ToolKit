@@ -202,3 +202,6 @@ PWC-[MoneyTree Home](https://link.jianshu.com?t=http://link.zhihu.com/?target=ht
 [Venture Intelligence](https://link.jianshu.com?t=http://link.zhihu.com/?target=http%3A//www.ventureintelligence.com/)PE/VC database
 
 [Tencent Holdings Ltd -- Trefis](https://link.jianshu.com?t=http://link.zhihu.com/?target=http%3A//www.trefis.com/modeldemo/institutional/22340/Qpiyk/0700.HK%3FeasyAccessToken%3DPROVIDERcf15b6285eebd7b94e7c2aa257b8c75161ce8a8c)（各个公司的revenue model的预测和key driver的趋势，这个网站简直不能再棒）
+
+## 学科分类表
+- [美国高等教育的学科分类（Classification of Instructional Programs）](https://nces.ed.gov/ipeds/cipcode/browse.aspx?y=55)
